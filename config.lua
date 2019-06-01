@@ -16,3 +16,4 @@ Config.CloseUiItems = {
     "defib",
     "carokit"
 }
+Config.CloseUiItems = {"headbag", "fishingrod"}

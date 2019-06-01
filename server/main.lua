@@ -54,8 +54,6 @@ AddEventHandler(
 			if not targetXPlayer.hasWeapon(itemName) then
 				sourceXPlayer.removeWeapon(itemName)
 				targetXPlayer.addWeapon(itemName, itemCount)
-
-				local weaponLabel = ESX.GetWeaponLabel(itemName)
 			end
 		end
 	end
@@ -66,7 +64,7 @@ AddEventHandler(
 RegisterCommand(
 	"openinventory",
 	function(source, args, rawCommand)
-		if IsPlayerAceAllowed(source, "command.openinventory") then
+		if IsPlayerAceAllowed(source, "inventory.openinventory") then
 			local target = tonumber(args[1])
 			local targetXPlayer = ESX.GetPlayerFromId(target)
 
