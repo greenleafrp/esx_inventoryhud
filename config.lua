@@ -14,7 +14,7 @@ Config.CloseUiItems = {
     "tequila",
     "cigarette",
     "defib",
-    "carokit"
+    "carokit",
+    "fishingrod"
 }
-Config.CloseUiItems = {"headbag", "fishingrod"}
-Config.CloseUiItems = {"headbag", "fishingrod"}
+
