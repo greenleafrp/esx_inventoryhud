@@ -131,6 +131,8 @@ files {
   'html/img/items/petrol_raffin.png',
   'html/img/items/washed_stone.png',
   'html/img/items/slaughtered_chicken.png',
+  'html/img/items/packaged_chicken.png',
+  'html/img/items/alive_chicken.png',
   'html/img/items/wool.png',
   'html/img/items/powerade.png',
   'html/img/items/protein_shake.png',
