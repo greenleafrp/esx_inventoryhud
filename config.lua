@@ -15,6 +15,17 @@ Config.CloseUiItems = {
     "cigarette",
     "defib",
     "carokit",
-    "fishingrod"
+    "fishingrod",
+    "lockpick",
+    "absinthe",
+    "chips",
+    "bulletproof",
+    "bandage",
+    "beer",
+    "binoculars",
+    "cocacola",
+    "medikit"
+
+
 }
 
