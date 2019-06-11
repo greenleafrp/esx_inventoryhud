@@ -29,7 +29,8 @@ Config.CloseUiItems = {
     "hamburger",
     "gazbottle",
     "gintonic",
-    "lighter"
+    "lighter",
+    "milk"
 
 
 }

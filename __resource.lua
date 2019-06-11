@@ -146,6 +146,8 @@ files {
   'html/img/items/wool.png',
   'html/img/items/powerade.png',
   'html/img/items/marijuana.png',
+  'html/img/items/milk.png',
+  'html/img/items/oxygen_mask.png',
   'html/img/items/powerade.png',
   'html/img/items/protein_shake.png',
   'html/img/items/packaged_plank.png',
