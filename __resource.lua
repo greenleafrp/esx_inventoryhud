@@ -133,7 +133,7 @@ files {
   'html/img/items/WEAPON_BATTLEAXE.png',
   'html/img/items/WEAPON_WRENCH.png',
   'html/img/items/WEAPON_DOUBLEACTION.png',
-  'html/img/items/WEAPON_HATCHET.png',
+  'html/img/items/WEAPON_FIREEXTINGUISHER.png',
   'html/img/items/weed_pooch.png',
   'html/img/items/handcuffs.png',
   'html/img/items/bandage.png',
