@@ -24,7 +24,8 @@ Config.CloseUiItems = {
     "beer",
     "binoculars",
     "cocacola",
-    "medikit"
+    "medikit",
+    "firstaidkit"
 
 
 }
