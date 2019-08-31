@@ -20,6 +20,8 @@ Inventory HUD for ESX. You can open and close inventory using F2. Part of code w
 
 ## Addons
 * [Vehicle trunk inventory](https://github.com/Trsak/esx_inventoryhud_trunk/tree/master)
+* [Vehicle glovebox inventory](https://github.com/swan2b144/esx_inventoryhud_glovebox)
+* [Shop Integration](https://github.com/sukurabu/esx_inventoryhud_shops)
 
 ## Screens
 * [https://i.imgur.com/eHD01Tl.png](https://i.imgur.com/eHD01Tl.png)
